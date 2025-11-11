@@ -8,15 +8,15 @@ Welcome to my portfolio! Here you’ll find projects that demonstrate **database
 
 ### 1. Library Management System (SQL + PL/SQL)
  A relational database project simulating a library system.  
- [View Project](./library-management-sql)
+ [View Project](https://github.com/Ranz00/library-management-sql)
 
 ### 2. API Testing Suite (Postman)
  A Postman collection testing a public weather API.  
- [View Project](./api-testing-postman)
+ [View Repository](https://github.com/Ranz00/api-testing-postman)
 
 ### 3. To‑Do App with Cypress Tests
  A simple web app with categories and localStorage persistence, tested with Cypress.  
- [View Project](./todo-app-cypress)
+ [View Repository](https://github.com/Ranz00/todo-app-cypress)
 
 ---
 
